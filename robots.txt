@@ -1,0 +1,23 @@
+User-agent: Baidu
+Disallow: /
+
+User-agent: *alexa*
+Disallow: /
+
+User-agent: Googlebot-Image
+Disallow: /
+
+User-agent: *
+Disallow: /admin/
+Disallow: /blocks/
+Disallow: /cgi-bin/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /language/
+Disallow: /modules/
+Disallow: /themes/
+Disallow: /versions/
+Disallow: /admin.php
+Disallow: /config.php
+Disallow: /ips.php
+Disallow: /trap.php
