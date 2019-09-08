@@ -4,6 +4,7 @@ Built on the Nuke-Evolution Xtreme 2.0.9e Core<br />
 Modified by <strong>Ernest Allen Buffington</strong><br /><br />
 
 [![codebeat badge](https://codebeat.co/badges/1d6d973c-5e9e-4e13-a8ff-2a1393f7c111)](https://codebeat.co/projects/github-com-ernestbuffington-the-86it-developers-network-master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fernestbuffington%2FThe-86it-Developers-Network.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fernestbuffington%2FThe-86it-Developers-Network?ref=badge_shield)
 <hr>
 <strong>Added CKEditor 4 - for PHP 7.3.8 - Sep 8, 2019 </strong><br />
 Created a custom version of CKEditor 4 for PHP-Nuke Titanium v3.0.0<br /> 
@@ -20,3 +21,6 @@ Added groups pending and updated group memberships! Both are clickable links Now
 <a href="https://github.com/ernestbuffington/The-86it-Developers-Network" target="_blank">https://github.com/ernestbuffington/The-86it-Developers-Network</a>
 <hr>
 <br />
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fernestbuffington%2FThe-86it-Developers-Network.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fernestbuffington%2FThe-86it-Developers-Network?ref=badge_large)
