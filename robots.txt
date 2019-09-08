@@ -16,7 +16,6 @@ Disallow: /includes/
 Disallow: /language/
 Disallow: /modules/
 Disallow: /themes/
-Disallow: /versions/
 Disallow: /admin.php
 Disallow: /config.php
 Disallow: /ips.php
