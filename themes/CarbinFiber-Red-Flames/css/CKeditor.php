@@ -28,7 +28,6 @@
 # PHP-Nuke Titanium (c) 2019 : Enhanced PHP-Nuke Web Portal System                      #
 #---------------------------------------------------------------------------------------#
 global $theme_name;
-
 echo "/* Fly Kit CKeditor Style Sheet */\n"; 
 ?>
 /* PRESETS
