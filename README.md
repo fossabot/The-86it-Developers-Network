@@ -5,7 +5,7 @@
 <strong>Coder - Ernest Allen Buffington</strong><br /> 
 <strong>Added CKEditor 4 - for PHP 7.3.8 - Sep 8, 2019 </strong><br />
 Created a custom version of CKEditor 4 for PHP-Nuke Titanium v3.0.0<br /> 
-<strong>Block block-Portal_Menu.php updated to v5.01 - for PHP 7.3.8 - Sep 8, 2019 </strong><br /> 
+<strong>block-Portal_Menu.php updated to v5.01 - for PHP 7.3.8 - Sep 8, 2019 </strong><br /> 
 created auto installer and fixed the keys and indexes on the database!<br />
 <strong>Fixed Blog_Archive Module - Sep 8, 2019 </strong><br />
 Show All Stories Icons were missing!<br />
