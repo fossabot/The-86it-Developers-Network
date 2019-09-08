@@ -1,9 +1,8 @@
 # The-86it-Developers-Network
  PHP-Nuke Titanium v3.0.0 a PHP-Nuke Fork for PHP 7.3.8 - BUILD 3001<br /><br />
 [![codebeat badge](https://codebeat.co/badges/1d6d973c-5e9e-4e13-a8ff-2a1393f7c111)](https://codebeat.co/projects/github-com-ernestbuffington-the-86it-developers-network-master)
-<br />
-<strong>SEPTEMBER 2019 - Ernest Buffington</strong> 
 <hr>
+<strong>Coder - Ernest Allen Buffington</strong> 
 <strong>Added CKEditor 4 - for PHP 7.3.8 - Sep 8, 2019 </strong><br />
 Created a custom version of CKEditor 4 for PHP-Nuke Titanium v3.0.0<br /> 
 <strong>Block block-Portal_Menu.php updated to v5.01 - for PHP 7.3.8 - Sep 8, 2019 </strong><br /> 
